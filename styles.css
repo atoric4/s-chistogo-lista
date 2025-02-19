@@ -12,12 +12,14 @@ p {
 
 ul,
 li {
+
     margin-left: 8px;
     padding-left: 8px;
 }
 
 .page {
     margin: 0px auto;
+    width: 360px;
 }
 
 .header {
